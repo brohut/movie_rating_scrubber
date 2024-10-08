@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+IMDbPY==2022.7.9
+pandas==2.2.3
+protobuf==5.28.2
+Requests==2.32.3
+selenium==4.25.0
